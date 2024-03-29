@@ -99,7 +99,7 @@ io.on("connection", (socket) => {
 
 console.log("hrloo");
 connect(
-  "mongodb://test:test@ac-ut3jk2b-shard-00-00.qntodh6.mongodb.net:27017,ac-ut3jk2b-shard-00-01.qntodh6.mongodb.net:27017,ac-ut3jk2b-shard-00-02.qntodh6.mongodb.net:27017/RIPPLEROOM?replicaSet=atlas-qpj10i-shard-0&ssl=true&authSource=admin"
+  "mongodb+srv://eslamibrahem111:35PnaPCvuWKkIoAm@cluster0.zyht7s4.mongodb.net/ripplBACK"
 );
 console.log(PORT);
 
